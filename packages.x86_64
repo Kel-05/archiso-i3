@@ -1,3 +1,4 @@
+# regent #
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -129,3 +130,24 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+# archiso-i3 #
+alacritty
+feh
+firefox
+i3blocks
+i3status
+i3-wm
+kate
+
+
+## X11 ##
+mesa
+xf86-video-amdgpu
+xf86-video-ati
+xf86-video-fbdev
+xf86-video-intel
+xf86-video-nouveau
+xf86-video-vesa
+xorg
+xorg-xinit
